@@ -43,13 +43,3 @@ header {
 .przycisk:hover {
     background-color: rgba(184, 184, 184, 0.1);
 }
-
-
-.sidebar {
-    position: fixed;
-    left: 0px;
-    width: 220px;
-    height: 100vh;
-    top: 80px;
-    background-color: #0F0F0F;
-}
